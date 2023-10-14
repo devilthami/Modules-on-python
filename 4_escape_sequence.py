@@ -1,0 +1,2 @@
+story = "This Python programming course for beginners in Hindi is designed keeping in mind the current\n trend and recent changes in Python. This course is designed to teach \tPython to beginners making it one of the b\est\\ sources to learn python in Hindi for beginners"
+print(story)
